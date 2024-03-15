@@ -33,7 +33,7 @@ If you are also preparing for Programming 1 or a similar course and want to expl
 
 
 
-# Repositório de Questões do Beecrowd
+# Repositório de Questões da USP
 
 Bem-vindo ao meu repositório de questões da Lista de Introdução à Computação do IME - USP! Este repositório serve como uma coleção de questões de programação do site (https://www.ime.usp.br/~macmulti/exercicios/) que eu resolvi e pratiquei para melhor meu conhecimento em C.
 
