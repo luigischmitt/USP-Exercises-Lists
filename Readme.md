@@ -24,7 +24,7 @@ The repository is organized as follows:
 
 ## How to Use This Repository
 
-If you are also preparing for Programming 1 or a similar course and want to explore the questions or solutions, follow these steps:
+If you are also studying C and want to explore the questions or solutions, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using the Git command:
    ```bash
@@ -59,7 +59,7 @@ O repositório está organizado da seguinte forma:
 
 ## Como Usar Este Repositório
 
-Se você também está se preparando para a disciplina de Programação 1 ou uma disciplina similar e deseja explorar as questões ou soluções, siga estas etapas:
+Se você também está estudando C e deseja explorar as questões ou soluções, siga estas etapas:
 
 1. **Clone o Repositório**: Clone este repositório para a sua máquina local usando o comando Git:
    ```bash
