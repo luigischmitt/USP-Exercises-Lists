@@ -14,7 +14,7 @@ int main()
         soma += i;
     }
     
-    printf("A soma dos %i primeiros inteiros eh %i", numero, soma);
+    printf("A soma dos %i primeiros inteiros eh %i\n", numero, soma);
 
     return 0;
 }
