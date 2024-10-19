@@ -1,6 +1,6 @@
-# URI Exercises Questions Repository
+# USP Exercises Questions Repository
 
-Welcome to my repository of exercises from URI - Beecrowd! This repository serves as a collection of programming questions from the website (https://www.ime.usp.br/~macmulti/exercicios/) that I have solved and practiced to improve my knowledge in C.
+Welcome to my repository of exercises from USP! This repository serves as a collection of programming questions from the website (https://www.ime.usp.br/~macmulti/exercicios/) that I have solved and practiced to improve my knowledge in C.
 
 ## Objective
 
@@ -24,8 +24,8 @@ The repository is organized as follows:
 
 ## How to Use This Repository
 
-If you are also studying Python and want to explore the questions or solutions, follow these steps:
+If you are also studying C and want to explore the questions or solutions, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using the Git command:
    ```bash
-   gh repo clone luigischmitt/URI-Exercises
+   gh repo clone luigischmitt/USP-Exercises-Lists
